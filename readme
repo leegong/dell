@@ -1,6 +1,6 @@
 Shared files with Dell Laptop.
 
-# cloud_oracle_files
+cloud_oracle_files
 https://github.com/leegong/cloud_oracle_files.git
 git clone: creat sync repo on local {eg: git clone https://github.com/leegong/cloud_oracle_files.git)
 git pull: updata the cloned sync repo on local
